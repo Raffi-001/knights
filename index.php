@@ -29,6 +29,7 @@ class Character
     public function reduceEnergy($enemyImpact)
     {
         $this->energy = $this->energy - $enemyImpact;
+        echo $this->name . '\'s energy reduced' . "\n";
     }
 }
 
@@ -128,7 +129,7 @@ class Game
             // array_shift($this->characters);
         }
 
-        echo "Winner is" . $this->characters[0]->name;
+        echo "Winner is" . $this->characters[0]->name . "\n";
     }
 
     public function attack($diceValue)
@@ -136,8 +137,11 @@ class Game
         $character = $this->characters[$this->currentCharacterIndex];
         $victim = $this->characters[$this->victimCharacterIndex];
 
+        $damage = $diceValue * $character->impact;
+        echo $character->name . ' attacked ' . $victim->name . 'reduced energy by ' . $damage . "\n";
 
-        $victim->reduceEnergy($diceValue * $character->impact);
+
+        $victim->reduceEnergy($damage);
 
 
         if($victim->energy <= 0) {

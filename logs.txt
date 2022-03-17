@@ -1,0 +1,1647 @@
+Start the game 
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 2 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 2
+Witch 1 attacked Witch 2reduced energy by 4
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 3
+Knight 7 attacked Witch 1reduced energy by 3
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 4
+Witch 2 attacked Knight 1reduced energy by 8
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 0
+Witch 1 attacked Witch 2reduced energy by 0
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 2
+Knight 7 attacked Witch 1reduced energy by 2
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 3
+Witch 2 attacked Knight 1reduced energy by 6
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 0
+Witch 1 attacked Witch 2reduced energy by 0
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 2
+Knight 7 attacked Witch 1reduced energy by 2
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 1
+Knight 1 attacked Knight 2reduced energy by 1
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 2 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 0
+Witch 1 attacked Witch 2reduced energy by 0
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 4
+Knight 7 attacked Witch 1reduced energy by 4
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 5
+Knight 1 attacked Knight 2reduced energy by 5
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 2
+Witch 2 attacked Knight 1reduced energy by 4
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 1
+Witch 1 attacked Witch 2reduced energy by 2
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 1
+Knight 7 attacked Witch 1reduced energy by 1
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 6 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 5
+Knight 1 attacked Knight 2reduced energy by 5
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 2 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 5
+Witch 1 attacked Witch 2reduced energy by 10
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 2
+Knight 7 attacked Witch 1reduced energy by 2
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 2 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 2
+Witch 1 attacked Witch 2reduced energy by 4
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 4
+Knight 7 attacked Witch 1reduced energy by 4
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 6 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 3
+Knight 4 attacked Knight 5reduced energy by 3
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 3
+Witch 2 attacked Knight 1reduced energy by 6
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 5
+Witch 1 attacked Witch 2reduced energy by 10
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 0
+Knight 7 attacked Witch 1reduced energy by 0
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 2
+Knight 3 attacked Knight 4reduced energy by 2
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 0
+Witch 2 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 4
+Witch 1 attacked Witch 2reduced energy by 8
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 1
+Knight 7 attacked Witch 1reduced energy by 1
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 0
+Witch 2 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 1
+Witch 1 attacked Witch 2reduced energy by 2
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 3
+Knight 7 attacked Witch 1reduced energy by 3
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 2 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 4
+Witch 1 attacked Witch 2reduced energy by 8
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 5
+Knight 7 attacked Witch 1reduced energy by 5
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 4
+Knight 6 attacked Knight 7reduced energy by 4
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 5
+Knight 5 attacked Knight 6reduced energy by 5
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 3
+Knight 4 attacked Knight 5reduced energy by 3
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 2
+Knight 3 attacked Knight 4reduced energy by 2
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 5
+Knight 2 attacked Knight 3reduced energy by 5
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 1 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Witch 2
+Victim is: Knight 1
+Dice rolled and value is: 3
+Witch 2 attacked Knight 1reduced energy by 6
+Knight 1's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Witch 2
+Dice rolled and value is: 3
+Witch 1 attacked Witch 2reduced energy by 6
+Witch 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 3
+Knight 7 attacked Witch 1reduced energy by 3
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 3
+Witch 1 attacked Knight 1reduced energy by 6
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 2
+Knight 7 attacked Witch 1reduced energy by 2
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 1
+Witch 1 attacked Knight 1reduced energy by 2
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 4
+Knight 7 attacked Witch 1reduced energy by 4
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 0
+Witch 1 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 3
+Knight 7 attacked Witch 1reduced energy by 3
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 5
+Knight 5 attacked Knight 6reduced energy by 5
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 0
+Witch 1 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 2
+Knight 7 attacked Witch 1reduced energy by 2
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 0
+Witch 1 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 5
+Knight 7 attacked Witch 1reduced energy by 5
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 3
+Knight 4 attacked Knight 5reduced energy by 3
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 2
+Knight 3 attacked Knight 4reduced energy by 2
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 5
+Knight 2 attacked Knight 3reduced energy by 5
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Witch 1
+Victim is: Knight 1
+Dice rolled and value is: 4
+Witch 1 attacked Knight 1reduced energy by 8
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Witch 1
+Dice rolled and value is: 5
+Knight 7 attacked Witch 1reduced energy by 5
+Witch 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 5
+Knight 2 attacked Knight 3reduced energy by 5
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 4
+Knight 7 attacked Knight 1reduced energy by 4
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 1
+Knight 7 attacked Knight 1reduced energy by 1
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 4
+Knight 6 attacked Knight 7reduced energy by 4
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 5
+Knight 5 attacked Knight 6reduced energy by 5
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 0
+Knight 7 attacked Knight 1reduced energy by 0
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 1 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 3
+Knight 7 attacked Knight 1reduced energy by 3
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 1 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 1
+Knight 7 attacked Knight 1reduced energy by 1
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 4
+Knight 6 attacked Knight 7reduced energy by 4
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 5
+Knight 1 attacked Knight 2reduced energy by 5
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 1
+Knight 7 attacked Knight 1reduced energy by 1
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 5
+Knight 2 attacked Knight 3reduced energy by 5
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 3
+Knight 7 attacked Knight 1reduced energy by 3
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 1 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 4
+Knight 7 attacked Knight 1reduced energy by 4
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 1 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 5
+Knight 7 attacked Knight 1reduced energy by 5
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 1 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 3
+Knight 7 attacked Knight 1reduced energy by 3
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 6 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 1
+Knight 1 attacked Knight 2reduced energy by 1
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 4
+Knight 7 attacked Knight 1reduced energy by 4
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 1
+Knight 1 attacked Knight 2reduced energy by 1
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 5
+Knight 7 attacked Knight 1reduced energy by 5
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 4
+Knight 6 attacked Knight 7reduced energy by 4
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 3
+Knight 4 attacked Knight 5reduced energy by 3
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 4
+Knight 7 attacked Knight 1reduced energy by 4
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 6 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 1 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 1
+Knight 7 attacked Knight 1reduced energy by 1
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 0
+Knight 5 attacked Knight 6reduced energy by 0
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 1 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 3
+Knight 7 attacked Knight 1reduced energy by 3
+Knight 1's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 2
+Knight 3 attacked Knight 4reduced energy by 2
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 1
+Victim is: Knight 2
+Dice rolled and value is: 5
+Knight 1 attacked Knight 2reduced energy by 5
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 1
+Dice rolled and value is: 5
+Knight 7 attacked Knight 1reduced energy by 5
+Knight 1's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 3
+Knight 7 attacked Knight 2reduced energy by 3
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 3
+Knight 5 attacked Knight 6reduced energy by 3
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 2 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 7 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 6 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 5
+Knight 5 attacked Knight 6reduced energy by 5
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 5
+Knight 7 attacked Knight 2reduced energy by 5
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 4
+Knight 3 attacked Knight 4reduced energy by 4
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 3
+Knight 2 attacked Knight 3reduced energy by 3
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 7 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 4
+Knight 4 attacked Knight 5reduced energy by 4
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 2 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 0
+Knight 7 attacked Knight 2reduced energy by 0
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 6 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 2 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 2
+Knight 7 attacked Knight 2reduced energy by 2
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 2
+Knight 6 attacked Knight 7reduced energy by 2
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 5
+Knight 4 attacked Knight 5reduced energy by 5
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 3
+Knight 3 attacked Knight 4reduced energy by 3
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 7 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 2
+Knight 5 attacked Knight 6reduced energy by 2
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 0
+Knight 3 attacked Knight 4reduced energy by 0
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 1
+Knight 7 attacked Knight 2reduced energy by 1
+Knight 2's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 3
+Knight 6 attacked Knight 7reduced energy by 3
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 4
+Knight 5 attacked Knight 6reduced energy by 4
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 0
+Knight 4 attacked Knight 5reduced energy by 0
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 2
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 2 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 2
+Dice rolled and value is: 4
+Knight 7 attacked Knight 2reduced energy by 4
+Knight 2's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 7 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 6
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 6 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 6
+Dice rolled and value is: 1
+Knight 5 attacked Knight 6reduced energy by 1
+Knight 6's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 1
+Knight 4 attacked Knight 5reduced energy by 1
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 1
+Knight 3 attacked Knight 4reduced energy by 1
+Knight 4's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 7 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 5
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 5 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 4
+Victim is: Knight 5
+Dice rolled and value is: 2
+Knight 4 attacked Knight 5reduced energy by 2
+Knight 5's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 4
+Dice rolled and value is: 5
+Knight 3 attacked Knight 4reduced energy by 5
+Knight 4's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 7 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 7
+Dice rolled and value is: 0
+Knight 3 attacked Knight 7reduced energy by 0
+Knight 7's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 4
+Knight 7 attacked Knight 3reduced energy by 4
+Knight 3's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 7
+Dice rolled and value is: 1
+Knight 3 attacked Knight 7reduced energy by 1
+Knight 7's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 2
+Knight 7 attacked Knight 3reduced energy by 2
+Knight 3's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 7
+Dice rolled and value is: 4
+Knight 3 attacked Knight 7reduced energy by 4
+Knight 7's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 0
+Knight 7 attacked Knight 3reduced energy by 0
+Knight 3's energy reduced
+Character changed. Current character is: Knight 3
+Victim is: Knight 7
+Dice rolled and value is: 5
+Knight 3 attacked Knight 7reduced energy by 5
+Knight 7's energy reduced
+Character changed. Current character is: Knight 7
+Victim is: Knight 3
+Dice rolled and value is: 1
+Knight 7 attacked Knight 3reduced energy by 1
+Knight 3's energy reduced
+Winner isKnight 7
