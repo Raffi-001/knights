@@ -37,6 +37,13 @@ class Knight extends Character
 
 }
 
+class Witch extends Character
+{
+    public $impact = 2;
+
+    public $energy = 50;
+}
+
 class Rules
 {
     public $nextCharacterRule = 'next';
@@ -176,6 +183,8 @@ $game = new Game(
         new Knight('Knight 5'),
         new Knight('Knight 6'),
         new Knight('Knight 7'),
+        new Witch('Witch 1'),
+        new Witch('Witch 2'),
     ],
     new Rules('previous')
 );
