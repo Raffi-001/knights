@@ -37,6 +37,56 @@ class Knight extends Character
 
 }
 
+class Rules
+{
+    public $nextCharacterRule = 'next';
+
+    public function __construct($nextCharacterRule) {
+        $this->nextCharacterRule = $nextCharacterRule;
+    }
+
+    public function changeCharacter($characters, $currentCharacterIndex)
+    {
+        switch ($this->nextCharacterRule) {
+
+            case 'previous':
+
+                $currentCharacterIndex--;
+
+                if($currentCharacterIndex < 0) {
+                    $currentCharacterIndex = count($characters) - 1;
+                }
+
+                echo 'Character changed. Current character is: ' . $characters[$currentCharacterIndex]->name . "\n";
+
+            break;
+
+            case 'random':
+
+                $currentCharacterIndex = array_rand($characters);
+
+            break;
+
+            default:
+
+                $currentCharacterIndex++;
+
+                if($currentCharacterIndex >= count($characters)) {
+                    $currentCharacterIndex = 0;
+                }
+
+                echo 'Character changed. Current character is: ' . $characters[$currentCharacterIndex]->name . "\n";
+
+            break;
+        }
+
+        return $currentCharacterIndex;
+
+
+    }
+}
+
+
 class Game
 {
     public $dice;
@@ -47,10 +97,13 @@ class Game
 
     public $victimCharacterIndex = 1;
 
-    public function __construct (Dice $dice, array $characters)
+    public $rules = null;
+
+    public function __construct (Dice $dice, array $characters, Rules $rules)
     {
         $this->dice = $dice;
         $this->characters = $characters;
+        $this->rules = $rules;
     }
 
     public function run ()
@@ -88,13 +141,9 @@ class Game
 
     public function changeCharacter ()
     {
-        $this->currentCharacterIndex++;
 
-        if($this->currentCharacterIndex >= count($this->characters)) {
-            $this->currentCharacterIndex = 0;
-        }
+        $this->currentCharacterIndex = $this->rules->changeCharacter($this->characters, $this->currentCharacterIndex);
 
-        echo 'Character changed. Current character is: ' . $this->characters[$this->currentCharacterIndex]->name . "\n";
     }
 
     public function changeVictimCharacter()
@@ -108,6 +157,7 @@ class Game
         echo 'Victim is: ' . $this->characters[$this->victimCharacterIndex]->name . "\n";
     }
 }
+
 
 
 
@@ -126,6 +176,7 @@ $game = new Game(
         new Knight('Knight 5'),
         new Knight('Knight 6'),
         new Knight('Knight 7'),
-    ]
+    ],
+    new Rules('previous')
 );
 $game->run();
